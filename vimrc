@@ -1,7 +1,9 @@
-scriptencoding utf-8
+call pathogen#helptags()
 call pathogen#infect()
+scriptencoding utf-8
 syntax on
 filetype plugin on
+color dracula
 set list
 set number
 set vb
