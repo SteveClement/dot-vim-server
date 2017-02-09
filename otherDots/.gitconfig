@@ -1,0 +1,6 @@
+[user]
+    name = Steve Clement
+    email = steve@localhost.lu
+    signingkey = 9BE4AEE9
+[push]
+	default = simple
